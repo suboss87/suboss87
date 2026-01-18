@@ -12,17 +12,14 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/subashnatarajan">
+  <a href="https://linkedin.com/in/subashn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:subash@example.com">
+  <a href="mailto:subash.var01@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@subashnatarajan">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/subashnatarajan">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://github.com/suboss87">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=suboss87&style=for-the-badge&color=A855F7&label=VISITORS"/>
 </p>
