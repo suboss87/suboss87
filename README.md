@@ -22,8 +22,6 @@
 
 I architect intelligent AI systems that automate complex enterprise workflows. My focus is on **multi-agent orchestration**, **workflow automation**, and building AI solutions that actually work in production—not just demos.
 
-**Currently building:** Invoice³ — AI-powered invoice processing with 3-way matching & fraud detection
-
 ---
 
 ### Expertise
