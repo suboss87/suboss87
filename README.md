@@ -161,8 +161,8 @@ Enterprise AI ops platform with <b>auto-RCA</b>, <b>security scanning</b>, <b>RA
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suboss87&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suboss87&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suboss87&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suboss87&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/><br/>
 
