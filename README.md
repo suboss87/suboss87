@@ -18,12 +18,12 @@ I'm focused on making multi-agent systems work in production — not just demos.
 
 ## Open source
 
-I build tools and reference architectures for AI agent systems, video generation infrastructure, and IoT:
+Currently building tools and reference architectures for AI agent systems, video generation infrastructure, and IoT:
 
 - [**AdCamp**](https://github.com/suboss87/adcamp) — AI video operations infrastructure with smart 80/20 model routing that cuts costs ~60% at scale. Batching, retry, cost tracking, quality gates.
 - [**SmartGarden ESP32**](https://github.com/suboss87/SmartGarden_ESP32) — IoT smart garden with soil moisture sensing and automated irrigation. (Personal project for my kid)
 
-[Full list here](https://github.com/suboss87?tab=repositories).
+[Full list of my past projects here](https://github.com/suboss87?tab=repositories).
 
 ## Get in touch
 
