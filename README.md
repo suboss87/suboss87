@@ -22,4 +22,3 @@ I'm currently building **AutoOps** — a production AI platform with security, R
 - 🤖 Maintain [ADK Advanced](https://github.com/suboss87/adk-advanced) — comprehensive Google ADK implementations for Vertex AI Agent Engine, RAG Engine, Cloud Run & GKE
 - 🌱 Building [SmartGarden ESP32](https://github.com/suboss87/SmartGarden_ESP32) — IoT smart garden with soil moisture sensing and automated irrigation
 - 💬 Ask me about agentic AI patterns, LLM cost optimization, production ML systems
-- 📨 Reach me: [LinkedIn](https://linkedin.com/in/subashn) · [Email](mailto:subash.var01@gmail.com)
