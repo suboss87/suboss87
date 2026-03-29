@@ -4,7 +4,7 @@ I'm an AI architect and Field CTO at [Siel AI](https://siel.ai). I spend most of
 
 ## What I'm working on
 
-I'm focused on making multi-agent systems work in production — not just demos. That means real architectures for orchestration, cost optimization, quality gates, and retry logic. After years of helping enterprises through cloud and now AI transformations, I've learned that the biggest barriers are rarely technical. I write about what I learn on **[LinkedIn](https://www.linkedin.com/in/subashn/)**. Some recent posts:
+I'm focused on making multi-agent systems work in production, not just demos. That means real architectures for orchestration, cost optimization, quality gates, and retry logic. After years of helping enterprises through cloud and now AI transformations, I've learned that the biggest barriers are rarely technical. I write about what I learn on **[LinkedIn](https://www.linkedin.com/in/subashn/)**. Some recent posts:
 
 | Date | Article |
 | --- | --- |
@@ -24,7 +24,6 @@ Currently building tools and reference architectures for AI agent systems, video
 - [**OpenClaw**](https://github.com/openclaw/openclaw) - Contributing fixes and features to this open-source AI agent platform. Telegram channel reliability, cron scheduling, and UI improvements.
 - [**SmartGarden ESP32**](https://github.com/suboss87/SmartGarden_ESP32) — IoT smart garden with soil moisture sensing and automated irrigation. (Personal project for my kid)
 
-[Full list of my past projects here](https://github.com/suboss87?tab=repositories).
 
 ## Get in touch
 
