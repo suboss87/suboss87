@@ -1,6 +1,6 @@
 # Hi, I'm Subash
 
-I'm an AI architect and Field CTO at [Siel AI](https://siel.ai). I spend most of my time helping teams build and ship production-ready AI agent systems. Previously, I led cloud and AI transformation programs at VMware, Fujitsu, NTT DATA, and Ericsson. I'm also the author of [Multi-Cloud Handbook for Developers](https://www.infoq.com/profile/Subash-Natarajan/).
+I'm an AI architect and Field CTO at [Siel AI](https://siel.ai). I spend most of my time helping clients build and ship production-ready AI agent systems. Previously, I led cloud and AI transformation programs at VMware, Fujitsu, NTT DATA, and Ericsson. I'm also the author of [Multi-Cloud Handbook for Developers](https://www.infoq.com/profile/Subash-Natarajan/).
 
 ## What I'm working on
 
@@ -18,7 +18,7 @@ I'm focused on making multi-agent systems work in production, not just demos. Th
 
 ## Open source
 
-Currently building tools and reference architectures for AI agent systems, video generation infrastructure, and IoT:
+Currently building tools (hobby projects) and reference architectures for AI agent systems, video generation infrastructure, and IoT:
 
 - [**OpenClaw**](https://github.com/openclaw/openclaw) - Active contributor to this open-source AI agent platform (4k+ stars). Fixed session-memory workspace isolation in multi-agent setups, Gemini streaming tag sanitization, OpenAI reasoning block crash, and WhatsApp group policy security bypass. [Merged PRs](https://github.com/openclaw/openclaw/commits?author=suboss87)
 - [**AdCamp**](https://github.com/suboss87/adcamp) - AI video operations infrastructure with smart 80/20 model routing that cuts costs ~60% at scale. Batching, retry, cost tracking, quality gates.
