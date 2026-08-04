@@ -1,30 +1,33 @@
-# Hi, I'm Subash
+# Subash Natarajan
+Field CTO and AI Systems Architect focused on taking agentic AI from prototype to production.
 
-I'm an AI architect and Field CTO at [Siel AI](https://siel.ai). I spend most of my time helping clients build and ship production-ready AI agent systems. Previously, I led cloud and AI transformation programs at VMware, Fujitsu, NTT DATA, and Ericsson. I'm also the author of [Multi-Cloud Handbook for Developers](https://www.infoq.com/profile/Subash-Natarajan/).
+I build and scale AI systems for real operating environments: orchestration, reliability, guardrails, cost control, and measurable business outcomes.
 
-## What I'm working on
+## What I do
+- Design production-grade multi-agent architectures
+- Build AI platforms with observability, evaluation, and safety controls
+- Help teams move from PoC to reliable enterprise deployment
 
-I'm focused on making multi-agent systems work in production, not just demos. That means real architectures for orchestration, cost optimization, quality gates, and retry logic. After years of helping enterprises through cloud and now AI transformations, I've learned that the biggest barriers are rarely technical. I write about what I learn on **[LinkedIn](https://www.linkedin.com/in/subashn/)**. Some recent posts:
+## Featured work
+### [FDEOps](https://github.com/suboss87/FDEOps)
+Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handoff.
 
-| Date | Article |
-| --- | --- |
-| Nov 2025 | [**Why 2026 Kills Coding, But Not Engineering?**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
-| Sep 2025 | [**5 Architectural Patterns for Building Reliable AI Agents**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
-| Jul 2025 | [**It's a Mindset Problem, Not the AI**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
-| Mar 2025 | [**Why MCP Has Become the Talk of the AI Town?**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
-| Jan 2025 | [**Is DeepSeek Worth the Hype?**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
-| Nov 2024 | [**The Future of LLMs: Why Smarter Beats Bigger?**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
-| Aug 2024 | [**How to Overcome LLM Selection Paralysis?**](https://www.linkedin.com/in/subashn/recent-activity/articles/) |
+### [SeedCamp2.0](https://github.com/suboss87/SeedCamp2.0)
+Open-source AI video generation reference architecture with routing, retries, cost controls, safety gates, and batch orchestration.
 
-## Open source
+### [CodeQuorum](https://github.com/suboss87/CodeQuorum)
+Multi-agent code review system that compares reviewer philosophies, highlights conflicts, and improves confidence through consensus.
 
-Currently building tools (hobby projects) and reference architectures for AI agent systems, video generation infrastructure, and IoT:
+### [ClearFrame](https://github.com/suboss87/ClearFrame)
+AI-driven ad compliance review workflow for high-volume creative validation.
 
-- [**OpenClaw**](https://github.com/openclaw/openclaw) - Active contributor to this open-source AI agent platform (4k+ stars). Fixed session-memory workspace isolation in multi-agent setups, Gemini streaming tag sanitization, OpenAI reasoning block crash, and WhatsApp group policy security bypass. [Merged PRs](https://github.com/openclaw/openclaw/commits?author=suboss87)
-- [**AdCamp**](https://github.com/suboss87/adcamp) - AI video operations infrastructure with smart 80/20 model routing that cuts costs ~60% at scale. Batching, retry, cost tracking, quality gates.
-- [**SmartGarden ESP32**](https://github.com/suboss87/SmartGarden_ESP32) - IoT smart garden with soil moisture sensing and automated irrigation. (Personal project for my kid)
+## Open source contributions
+- Contributor to [OpenClaw](https://github.com/openclaw/openclaw): reliability and multi-agent fixes, including memory isolation and streaming robustness.
 
+## Writing and thought leadership
+- [LinkedIn articles](https://www.linkedin.com/in/subashn/recent-activity/articles/)
+- [InfoQ profile](https://www.infoq.com/profile/Subash-Natarajan/)
 
-## Get in touch
-
-[LinkedIn](https://linkedin.com/in/subashn) · [Email](mailto:subash.var01@gmail.com) · [InfoQ](https://www.infoq.com/profile/Subash-Natarajan/)
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/subashn/)
+- [Email](mailto:subash.var01@gmail.com)
