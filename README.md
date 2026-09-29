@@ -21,4 +21,4 @@ Before Siel I spent 15 years at Ericsson, NTT DATA, Fujitsu and VMware on cloud 
 - [FDE field notes](https://fdeops.substack.com/), a newsletter about forward deployed engineering.
 - [Articles on The New Stack](https://thenewstack.io/author/subash-natarajan/) about multicloud strategy and FinOps.
 
-**Get in touch:** [subash.io](https://subash.io) · [LinkedIn](https://www.linkedin.com/in/subashn/) · [email](mailto:subash.var01@gmail.com)
+**Get in touch:** [subash.io](https://subash.io) · [LinkedIn](https://www.linkedin.com/in/subashn/) · [email](mailto:suboss87@gmail.com)
