@@ -1,10 +1,8 @@
 ### Hi, I'm Subash.
 
-I'm a Field CTO and cloud and AI architect. I like working on the parts of AI systems that decide whether they're useful in practice: the context an agent keeps, the checks around its decisions, and what happens when a workflow fails.
+I love code and everything around it, especially figuring out what is worth building in the first place. Design thinking helps me start with the people facing a problem. Systems thinking helps me see how a fix fits into the bigger picture, and I like going back to first principles when the usual approach doesn't make sense.
 
-Here I build small tools and reusable skills for that work. [FDEOps](https://github.com/suboss87/FDEOps) is my main project. I'm also exploring automated code review with [CodeQuorum](https://github.com/suboss87/CodeQuorum) and batch AI workflows with [SeedCamp](https://github.com/suboss87/SeedCamp2.0).
-
-I want these projects to be useful to engineers solving a specific problem. A working example, clear limits and code you can change matter to me.
+I'm drawn to big, pressing problems, but I look for a small, useful place to start. In my free time, I use GitHub to explore what developers and enterprises are struggling with and build solutions they can try, question and improve.
 
 ### Selected projects
 
