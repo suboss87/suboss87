@@ -1,24 +1,49 @@
-<img src="assets/header.svg" width="100%" alt="Subash Natarajan, Field CTO at Siel AI. FDEOps has 900+ stars and 5k+ npm downloads a month; 6 merged fixes in OpenClaw; published author with Packt.">
+### I help enterprises take AI from a business problem through architecture into production.
 
-I work as a forward deployed engineer at [Siel AI](https://www.linkedin.com/in/subashn/). My work starts after the demo: sitting with a customer's team, finding the problem worth solving, and shipping an AI system they can run without me. I write about [what that looks like in the field](https://fdeops.substack.com/p/what-forward-deployed-engineering).
+Field CTO at [Siel AI](https://www.linkedin.com/in/subashn/) and a cloud and AI enterprise architect. Over 15 years my work has moved from software and automation into cloud platforms, enterprise architecture and now AI, at Ericsson, NTT DATA, VMware and Fujitsu across APAC. At Fujitsu I led the regional Cloud Centre of Excellence and grew it to 28 architects in six markets ([career history](https://www.linkedin.com/in/subashn/details/experience/)).
 
-Before Siel I spent 15 years at Ericsson, NTT DATA, Fujitsu and VMware on cloud platforms and large system integrations ([career history](https://www.linkedin.com/in/subashn/details/experience/)).
+### Selected engagements
 
-**What I've built**
+| Problem | What I changed | Result |
+|:---|:---|:---|
+| Invoice approval for a manufacturer, 6,500 invoices a month | OCR and vision-language extraction, with deterministic validation before approval | 18 → 3 minutes per invoice, $7.58 → $2.34 per invoice, field accuracy 65% → 98% |
+| E-commerce support pilot projected at $36,000 a month | Replaced six agents with a deterministic orchestrator, one conversational agent and caching, plus escalation rules and evaluation | 97% fewer model calls per conversation |
+| 34-bot RPA estate in a regulated environment | Rebuilt it on a local LLM-backed automation layer | Maintenance 55 → 14 hours a month, human-review exceptions 40% → 18% |
+| Internal policy and contract search | Redesigned retrieval and access controls | Lookup 25 → under 3 minutes, architecture reused in two later builds |
 
-- **[FDEOps](https://github.com/suboss87/FDEOps)** gives an AI coding agent the working method of a forward deployed engineer. It has 35 task skills for discovery, scoping, building, verification and handover, plus a local record that keeps customer decisions between sessions. It [installs into](https://github.com/suboss87/FDEOps/blob/Main/docs/install.md) Claude Code, Cursor, Codex and Copilot. 948 stars, 104 forks, [30 releases](https://github.com/suboss87/FDEOps/releases) and about 5,800 [npm downloads](https://www.npmjs.com/package/fdeops) last month.
-- **[SeedCamp](https://github.com/suboss87/SeedCamp2.0)** is a reference architecture for generating AI video in batches. It routes each job to a premium or cheaper model, retries failures, checks prompts before spending money and records the cost of every video. The README states its limit, a few hundred videos per run, and documents how to go past it.
-- **[CodeQuorum](https://github.com/suboss87/CodeQuorum)** runs three reviewer agents with different priorities on each pull request. A problem is marked "fix it" only when at least two of them find it on their own, so confidence comes from agreement rather than a model grading itself ([example review](https://github.com/suboss87/CodeQuorum#example-pr-comment)).
+<sub>Client work at Siel AI since May 2024. Clients are not named.</sub>
 
-**Upstream**
+### Open source
 
-- [Six merged fixes in OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Asuboss87+is%3Amerged): Slack reconnects, Telegram approvals, Ollama model IDs, OpenAI reasoning blocks and hook context.
+#### [FDEOps](https://github.com/suboss87/FDEOps)
+<sub>948 stars · 104 forks · [30 releases](https://github.com/suboss87/FDEOps/releases) · about 5,800 [npm downloads](https://www.npmjs.com/package/fdeops) last month</sub>
 
-**Writing**
+FDEOps packages the working method of a forward deployed engineer as skills for AI coding agents. Its 35 task skills cover discovery, scoping, building, verification and handover, and a local record keeps each customer's decisions between sessions. It [installs into](https://github.com/suboss87/FDEOps/blob/Main/docs/install.md) Claude Code, Cursor, Codex and Copilot.
 
-- [Multi-Cloud Handbook for Developers](https://www.packtpub.com/en-us/product/multi-cloud-handbook-for-developers-9781804617090) (Packt), co-written with Jeveen Jacob.
-- [Agentic AI Architecture Framework for Enterprises](https://www.infoq.com/articles/agentic-ai-architecture-framework/) (InfoQ), co-written with Ahilan Ponnusamy.
-- [FDE field notes](https://fdeops.substack.com/), a newsletter about forward deployed engineering.
+<a href="https://github.com/suboss87/FDEOps"><img src="assets/fdeops-fieldbook.png" width="100%" alt="The FDEOps fieldbook: a read-only view of three client engagements that shows the recommended first action for each client and the risks that need attention."></a>
+<sub>The fieldbook, a read-only view of local customer records. Run <code>npx fdeops demo</code> to generate it from sample notes.</sub>
+
+#### [SeedCamp](https://github.com/suboss87/SeedCamp2.0)
+<sub>Python · FastAPI · Docker · [CI on every push](https://github.com/suboss87/SeedCamp2.0/actions/workflows/ci.yml) · MIT</sub>
+
+SeedCamp is a reference architecture for generating AI video in batches. It routes each job to a premium or cheaper model, retries failures, checks prompts before spending money and records the cost of every video. The README states its limit, a few hundred videos per run, and documents how to go past it.
+
+#### [CodeQuorum](https://github.com/suboss87/CodeQuorum)
+<sub>Python · LangGraph · GitHub Action · [27 tests](https://github.com/suboss87/CodeQuorum/actions/workflows/tests.yml) · MIT</sub>
+
+CodeQuorum runs three reviewer agents with different priorities on each pull request. A problem is marked "fix it" only when at least two of them find it independently, so confidence comes from agreement rather than a model grading itself ([example review](https://github.com/suboss87/CodeQuorum#example-pr-comment)).
+
+### Upstream
+
+[Six merged fixes in OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Asuboss87+is%3Amerged): Slack reconnects, Telegram approvals, Ollama model IDs, OpenAI reasoning blocks and hook context.
+
+### Writing
+
+- [Multi-Cloud Handbook for Developers](https://www.packtpub.com/en-us/product/multi-cloud-handbook-for-developers-9781804617090) (Packt), a book on designing and running cloud-native applications across AWS, Azure and GCP, co-written with Jeveen Jacob.
+- [Agentic AI Architecture Framework for Enterprises](https://www.infoq.com/articles/agentic-ai-architecture-framework/) on InfoQ, co-written with Ahilan Ponnusamy.
 - [Articles on The New Stack](https://thenewstack.io/author/subash-natarajan/) about multicloud strategy and FinOps.
+- [FDE field notes](https://fdeops.substack.com/), a newsletter on forward deployed engineering.
 
-**Get in touch:** [subash.io](https://subash.io) · [LinkedIn](https://www.linkedin.com/in/subashn/) · [email](mailto:suboss87@gmail.com)
+### Contact
+
+[subash.io](https://subash.io) · [LinkedIn](https://www.linkedin.com/in/subashn/) · [suboss87@gmail.com](mailto:suboss87@gmail.com)
