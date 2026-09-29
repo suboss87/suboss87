@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Subash Natarajan, Field CTO at Siel AI. FDEOps has 900+ stars and 5k+ npm downloads a month; 6 merged fixes in OpenClaw; published author with Packt.">
-</picture>
+<img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="Subash Natarajan, Field CTO at Siel AI. FDEOps has 900+ stars and 5k+ npm downloads a month; 6 merged fixes in OpenClaw; published author with Packt.">
+<img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="Subash Natarajan, Field CTO at Siel AI. FDEOps has 900+ stars and 5k+ npm downloads a month; 6 merged fixes in OpenClaw; published author with Packt.">
 
 I work as a forward deployed engineer at [Siel AI](https://www.linkedin.com/in/subashn/). My work starts after the demo: sitting with a customer's team, finding the problem worth solving, and shipping an AI system they can run without me. I write about [what that looks like in the field](https://fdeops.substack.com/p/what-forward-deployed-engineering).
 
