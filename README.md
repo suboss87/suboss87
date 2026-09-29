@@ -7,11 +7,11 @@ Field CTO at [Siel AI](https://www.linkedin.com/in/subashn/) and a cloud and AI 
 | Problem | What I changed | Result |
 |:---|:---|:---|
 | Invoice approval for a manufacturer, 6,500 invoices a month | OCR and vision-language extraction, with deterministic validation before approval | 18 → 3 minutes per invoice, $7.58 → $2.34 per invoice, field accuracy 65% → 98% |
-| E-commerce support pilot projected at $36,000 a month | Replaced six agents with a deterministic orchestrator, one conversational agent and caching, plus escalation rules and evaluation | 97% fewer model calls per conversation |
+| E-commerce support pilot with a six-agent design projected at $36,000 a month | Redesigned it around a deterministic orchestrator, one conversational agent and caching, plus escalation rules and evaluation | 97% fewer model calls per conversation |
 | 34-bot RPA estate in a regulated environment | Rebuilt it on a local LLM-backed automation layer | Maintenance 55 → 14 hours a month, human-review exceptions 40% → 18% |
 | Internal policy and contract search | Redesigned retrieval and access controls | Lookup 25 → under 3 minutes, architecture reused in two later builds |
 
-<sub>Client work at Siel AI since May 2024. Clients are not named.</sub>
+<sub>Self-reported client outcomes from my [LinkedIn experience](https://www.linkedin.com/in/subashn/details/experience/) at Siel AI since May 2024. Clients are not named.</sub>
 
 ### Open source
 
