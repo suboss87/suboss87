@@ -1,6 +1,9 @@
-### Hi, I'm Subash.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Subash Natarajan, Field CTO at Siel AI. FDEOps has 900+ stars and 5k+ npm downloads a month; 6 merged fixes in OpenClaw; published author with Packt.">
+</picture>
 
-I'm a [Field CTO at Siel AI](https://www.linkedin.com/in/subashn/), working as a forward deployed engineer. My work starts after the demo: sitting with a customer's team, finding the problem worth solving, and shipping an AI system they can run without me. I write about [what that looks like in the field](https://fdeops.substack.com/p/what-forward-deployed-engineering).
+I work as a forward deployed engineer at [Siel AI](https://www.linkedin.com/in/subashn/). My work starts after the demo: sitting with a customer's team, finding the problem worth solving, and shipping an AI system they can run without me. I write about [what that looks like in the field](https://fdeops.substack.com/p/what-forward-deployed-engineering).
 
 Before Siel I spent 15 years at Ericsson, NTT DATA, Fujitsu and VMware on cloud platforms and large system integrations ([career history](https://www.linkedin.com/in/subashn/details/experience/)).
 
