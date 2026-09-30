@@ -14,6 +14,11 @@ Skills for AI coding agents, from scoping a problem through verification and han
 <a href="https://github.com/suboss87/FDEOps"><img src="assets/fdeops-fieldbook.png" width="100%" alt="The FDEOps fieldbook: a read-only view of three client engagements that shows the recommended first action for each client and the risks that need attention."></a>
 The fieldbook, a read-only view of local customer records. Run <code>npx fdeops demo</code> to generate it from sample notes.
 
+#### [Awesome Enterprise AI](https://github.com/suboss87/awesome-enterprise-ai)
+Python · [Try the workspace](https://github.com/suboss87/awesome-enterprise-ai#try-it-in-two-minutes) · [Tests and evaluation](https://github.com/suboss87/awesome-enterprise-ai/blob/main/docs/VERIFICATION.md) · MIT
+
+Small workflows for the work around enterprise AI: investigating incidents, checking claim evidence, answering business questions and coordinating operations. Each includes examples, tests and clear adoption limits. Nine are reviewed references; the proposal-evidence project remains experimental.
+
 #### [SeedCamp](https://github.com/suboss87/SeedCamp2.0)
 Python · FastAPI · Docker · [CI on every push](https://github.com/suboss87/SeedCamp2.0/actions/workflows/ci.yml) · MIT
 
