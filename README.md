@@ -1,13 +1,13 @@
 ### Hi, I'm Subash.
 
-I love code and everything around it, especially figuring out what is worth building in the first place. Design thinking helps me start with the people facing a problem. Systems thinking helps me see how a fix fits into the bigger picture, and I like going back to first principles when the usual approach doesn't make sense.
+[Field CTO at Siel AI](https://www.linkedin.com/in/subashn/) and a cloud and AI architect. On GitHub I build open-source tools for the work around enterprise AI: [FDEOps](https://github.com/suboss87/FDEOps) for AI coding agents, [Awesome Enterprise AI](https://github.com/suboss87/awesome-enterprise-ai) for business workflows and [CodeQuorum](https://github.com/suboss87/CodeQuorum) for pull request review.
 
-I'm drawn to big, pressing problems, but I look for a small, useful place to start. In my free time, I use GitHub to explore what developers and enterprises are struggling with and build solutions they can try, question and improve.
+I like figuring out what is worth building in the first place. Design thinking keeps me close to the people facing a problem, systems thinking shows how a fix fits the bigger picture, and first principles help when the usual approach doesn't make sense. [FDEOps](https://github.com/suboss87/FDEOps#why-use-it) is that method written down as skills. I look for a small, useful place to start on big problems. In my own time, I use GitHub to build things developers and enterprises can try, question and improve.
 
 ### Selected projects
 
 #### [FDEOps](https://github.com/suboss87/FDEOps)
-[Releases](https://github.com/suboss87/FDEOps/releases) · [Install](https://github.com/suboss87/FDEOps/blob/Main/docs/install.md) · [npm](https://www.npmjs.com/package/fdeops)
+947 stars · 106 forks · 6,500 [npm downloads](https://www.npmjs.com/package/fdeops) in September · [CI](https://github.com/suboss87/FDEOps/actions/workflows/validate.yml) · [Evals](https://github.com/suboss87/FDEOps/tree/Main/evals) · [Releases](https://github.com/suboss87/FDEOps/releases)
 
 Skills for AI coding agents, from scoping a problem through verification and handover. FDEOps keeps a local record of decisions so the next session can pick up the work. It [installs into](https://github.com/suboss87/FDEOps/blob/Main/docs/install.md) Claude Code, Cursor, Codex and Copilot.
 
@@ -17,7 +17,7 @@ The fieldbook, a read-only view of local customer records. Run <code>npx fdeops 
 #### [Awesome Enterprise AI](https://github.com/suboss87/awesome-enterprise-ai)
 Python · [Try the workspace](https://github.com/suboss87/awesome-enterprise-ai#try-it-in-two-minutes) · [Tests and evaluation](https://github.com/suboss87/awesome-enterprise-ai/blob/main/docs/VERIFICATION.md) · MIT
 
-Small workflows for the work around enterprise AI: investigating incidents, checking claim evidence, answering business questions and coordinating operations. Each includes examples, tests and clear adoption limits. Nine are reviewed references; the proposal-evidence project remains experimental.
+Small workflows for the work around enterprise AI: investigating incidents, checking claim evidence, answering business questions and coordinating operations. Each includes examples, tests and clear adoption limits. Nine are reviewed references; the proposal-evidence project remains experimental. [RAG Scope Check](https://github.com/suboss87/rag-scope-check), a local CI gate for permission-scoped retrieval, is also available on its own.
 
 #### [SeedCamp](https://github.com/suboss87/SeedCamp2.0)
 Python · FastAPI · Docker · [CI on every push](https://github.com/suboss87/SeedCamp2.0/actions/workflows/ci.yml) · MIT
