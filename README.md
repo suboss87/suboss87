@@ -2,7 +2,7 @@
 
 [Field CTO at Siel AI](https://www.linkedin.com/in/subashn/) and a cloud and AI architect. On GitHub I build open-source tools for the work around enterprise AI: [FDEOps](https://github.com/suboss87/FDEOps) for AI coding agents, [Awesome Enterprise AI](https://github.com/suboss87/awesome-enterprise-ai) for business workflows and [CodeQuorum](https://github.com/suboss87/CodeQuorum) for pull request review.
 
-I like figuring out what is worth building in the first place. Design thinking keeps me close to the people facing a problem, systems thinking shows how a fix fits the bigger picture, and first principles help when the usual approach doesn't make sense. [FDEOps](https://github.com/suboss87/FDEOps#why-use-it) is that method written down as skills. I look for a small, useful place to start on big problems. In my own time, I use GitHub to build things developers and enterprises can try, question and improve.
+I like figuring out what is worth building in the first place. Design thinking keeps me close to the people facing a problem, systems thinking shows how a fix fits the bigger picture, and first principles help when the usual approach doesn't make sense. [FDEOps](https://github.com/suboss87/FDEOps#why-use-it) is that method written down as skills. I look for a small, useful place to start on big problems. In my own time, I use GitHub to build things developers and enterprises can try, question and improve, and now and then something for my kids.
 
 ### Selected projects
 
@@ -29,6 +29,7 @@ Python · LangGraph · GitHub Action · [Tests](https://github.com/suboss87/Code
 
 Three agents review a pull request with different priorities. Findings backed by at least two reviewers are marked "fix it"; a human can inspect the reasoning in the [review comment](https://github.com/suboss87/CodeQuorum#example-pr-comment). Agreement is a signal to investigate, not a guarantee that the finding is correct.
 
+
 ### Contributions
 
 [Merged fixes in OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Asuboss87+is%3Amerged): Slack reconnects, Telegram approvals, Ollama model IDs, OpenAI reasoning blocks and hook context.
@@ -39,6 +40,13 @@ Three agents review a pull request with different priorities. Findings backed by
 - [Agentic AI Architecture Framework for Enterprises](https://www.infoq.com/articles/agentic-ai-architecture-framework/) on InfoQ, co-written with Ahilan Ponnusamy.
 - [Articles on The New Stack](https://thenewstack.io/author/subash-natarajan/) about multicloud strategy and FinOps.
 - [FDE field notes](https://fdeops.substack.com/), a newsletter on forward deployed engineering.
+
+### At home
+
+#### [My Kids TV](https://github.com/suboss87/my-kids-tv)
+Google TV · Android TV · LG · Samsung · [Checks](https://github.com/suboss87/my-kids-tv/actions/workflows/check.yml) · [Open dataset](https://github.com/suboss87/my-kids-tv/tree/main/data) (CC BY 4.0) · MIT
+
+Built for my own kids. The TV's home screen was designed to keep everyone watching, so I replaced it with a calm one: one film or show at a time, picked for their age, behind a parent PIN, with no ads and no tracking. Choosing the titles was the part I enjoyed most. About 4,800 candidates went through official age ratings, then [Jev](https://typesafe.ai) judged each one for its age band, and I reviewed the borderline calls myself. The 931 picks are published as an open dataset any parent or school can use.
 
 ### Get in touch
 
